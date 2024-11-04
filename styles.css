@@ -5,19 +5,19 @@
     font-family: "Oswald", sans-serif;
     font-weight: 400;
     color: #5D5D7D;
-
-    
 }
 
 main {
     width: 100vw;
     height: 100vh;
 }
+
 .head {
     position: absolute;
     z-index: 1;
     display: inline-block;
 }
+
 .link {
     font-size: 28px;
     cursor: pointer;
@@ -26,11 +26,11 @@ main {
     left: 57px;
     padding-right: 50px;
 }
+
 .head:nth-child(2){
     opacity: 0.6;
 }
     
-
 h1 {
     font-size: 70px;
     line-height: 80px;
@@ -59,6 +59,7 @@ button {
     background: #9499EA;
     cursor: pointer;
 }
+
 button:hover{
     opacity: 0.8;
 }
@@ -72,6 +73,7 @@ section {
     height: 100%;
    
 }
+
  div {
     position: absolute;
     width: 40%;
